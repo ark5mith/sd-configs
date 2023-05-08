@@ -1,6 +1,6 @@
 Old Readme
 
-# For Kaggle
+# For Kaggle RogueWild with Python 3.10.10 and Latest Automatic1111 WebUI (as per May 8th, 2023)
 ### New Python 3.10.10 Notebook
 testing branch for the latest notebook, use `!git clone -b 3.10` for example for cloning branch
 
