@@ -1,6 +1,6 @@
 Old Readme
 
-# For Kaggle
+# For Kaggle with Python 3.7.12 environment and Camenduru WebUI v2.0 
 ### New Python 3.10.10 Notebook
 testing branch for the latest notebook, use `!git clone -b 3.10` for example for cloning branch
 
